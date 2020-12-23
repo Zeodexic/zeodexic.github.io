@@ -1,14 +1,14 @@
 .controller.ds4 {
-background-image: url("https://github.com/Zeodexic/zeodexic.github.io/blob/main/stuff/svg/controller_ds4.svg");
+background-image: url("https://zeodexic.github.io/stuff/svg/controller_ds4.svg");
 }
 .ds4 .face {
-background-image: url("https://github.com/Zeodexic/zeodexic.github.io/blob/main/stuff/svg/ds4_face.svg");
+background-image: url("https://zeodexic.github.io/stuff/svg/ds4_face.svg");
 }
 .ds4 .button {
-background-image: url("https://github.com/Zeodexic/zeodexic.github.io/blob/main/stuff/svg/ds4_button.svg");
+background-image: url("https://zeodexic.github.io/stuff/svg/ds4_button.svg");
 }
 .ds4 .stick {
-background-image: url("https://github.com/Zeodexic/zeodexic.github.io/blob/main/stuff/svg/ds4_stick.svg");
+background-image: url("https://zeodexic.github.io/stuff/svg/ds4_stick.svg");
 }
 .ds4 .start {
     background-image: url('https://gamepadviewer.com/ps4-assets/start.svgz') !important;
